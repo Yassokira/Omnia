@@ -2,11 +2,11 @@
 
 **Last Updated: [July 2, 2025]**
 
-This Privacy Policy describes how **Omnia** ("we", "our", or "the app") collects, uses, and protects your information when you use our mobile application.
+This Privacy Policy describes how **Optiva** ("we", "our", or "the app") collects, uses, and protects your information when you use our mobile application.
 
 ## 1. Information We Collect
 
-When you use Omnia, we may collect the following types of information:
+When you use Optiva, we may collect the following types of information:
 
 ### a. Personal Information
 - **Email address** (via Firebase Auth or third-party login like Facebook or Apple)
@@ -79,5 +79,5 @@ For questions, data deletion requests, or privacy concerns, contact:
 
 ---
 
-**Thank you for trusting Omnia with your personal growth journey.**
+**Thank you for trusting Optiva with your personal growth journey.**
 
