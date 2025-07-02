@@ -2,17 +2,17 @@
 
 **Last Updated: [July 2, 2025]**
 
-This document explains how users of the **Omnia** mobile application can delete their personal data, including data collected through Facebook Login and Firebase services.
+This document explains how users of the **Optiva** mobile application can delete their personal data, including data collected through Facebook Login and Firebase services.
 
 ---
 
 ## How to Delete Your Account and Data
 
-If you wish to delete your Omnia account and remove all associated personal data (including that collected via Facebook Login), please follow these steps:
+If you wish to delete your Optiva account and remove all associated personal data (including that collected via Facebook Login), please follow these steps:
 
 ### Option 1: In-App Deletion (Recommended)
 
-1. Open the Omnia app on your device.
+1. Open the Optiva app on your device.
 2. Go to the **Profile** or **Settings** tab.
 3. Scroll down to **Account Settings** or **Privacy**.
 4. Tap **Delete Account**.
@@ -25,7 +25,7 @@ If you no longer have access to the app, you can email us directly:
 - **Email:** yassinkira16@gmail.com
 - **Subject:** _Data Deletion Request_
 - Include:
-  - The **email address** or **Facebook account name** associated with your Omnia account.
+  - The **email address** or **Facebook account name** associated with your Optiva account.
   - A statement confirming you want your data deleted.
 
 We will respond within 5 business days and process your request within 7 business days.
@@ -47,7 +47,7 @@ We do **not** retain backups of your personal data after deletion.
 
 ## Legal Compliance
 
-Omnia complies with:
+Optiva complies with:
 - **Facebook Platform Policy**
 - **Apple’s App Store Guidelines**
 - **General Data Protection Regulation (GDPR)**
