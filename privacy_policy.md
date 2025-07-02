@@ -74,8 +74,8 @@ We may update this policy from time to time. Changes will be posted on this page
 For questions, data deletion requests, or privacy concerns, contact:
 
 **Developer:** Yassin Kira
+
 **Email:** yassinkira16@gmail.com 
-**GitHub Repository:** 
 
 ---
 
