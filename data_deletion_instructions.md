@@ -61,8 +61,6 @@ For questions or concerns, please contact:
 
 **Developer:** Yassin Kira 
 **Email:** yassinkira16@gmail.com 
-**GitHub Repository:** 
-
 ---
 
 We take your privacy seriously and are committed to providing full transparency and control over your data.
